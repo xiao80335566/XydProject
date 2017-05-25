@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Libraries/DroidPlugin/DroidPlugin.iml" filepath="$PROJECT_DIR$/Libraries/DroidPlugin/DroidPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Libraries/Libraries.iml" filepath="$PROJECT_DIR$/Libraries/Libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module/Module.iml" filepath="$PROJECT_DIR$/Module/Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module/PluginMain/PluginMain.iml" filepath="$PROJECT_DIR$/Module/PluginMain/PluginMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module/PluginUtil/PluginUtil.iml" filepath="$PROJECT_DIR$/Module/PluginUtil/PluginUtil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module/Plugintest1/Plugintest1.iml" filepath="$PROJECT_DIR$/Module/Plugintest1/Plugintest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XydProject.iml" filepath="$PROJECT_DIR$/XydProject.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+include ':Module:PluginMain'
+include ':Module:Plugintest1'
+include ':Module:PluginUtil'
+include ':Libraries:DroidPlugin'
